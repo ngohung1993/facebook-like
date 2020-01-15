@@ -1,0 +1,13 @@
+table th {
+    font-weight: 600;
+    text-transform: uppercase !important;
+    text-align: center;
+}
+
+table a:hover {
+    text-decoration: none;
+}
+
+.select2-drop {
+    z-index: 99999 !important;
+}

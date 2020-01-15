@@ -1,0 +1,39 @@
+.user-stats span {
+    margin: 0 2px;
+}
+
+.md-editor > textarea {
+    background: unset;
+    padding: 10px;
+}
+
+.md-editor.active {
+    border-color: inherit;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.select2-container--default .select2-selection--single {
+    border-radius: unset;
+}
+
+.select2-container .select2-selection--single {
+    height: 34px;
+}
+
+.dropdown-user {
+    min-width: 305px;
+    padding: 0 20px;
+}
+
+.dropdown-user:after {
+    top: 1px;
+    margin-left: -6px;
+    border-top-width: 0;
+    border-bottom-color: #fff;
+
+}
+
+.wrapper-content {
+    padding-top: 25px !important;
+}
